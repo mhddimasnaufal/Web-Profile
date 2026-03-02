@@ -55,8 +55,11 @@ Website Dimas/
 │   └── audio-player.js # Kontrol pemutar musik
 ├── index.html        # Struktur utama website
 └── Logo.png          # Logo identitas (MDN)
+```
 
-📧 Kontak & Media Sosial
+---
+
+## 📧 Kontak & Media Sosial
 Jika Anda ingin berkolaborasi atau memiliki pertanyaan, silakan hubungi melalui:
 
 WhatsApp: +62 895-6111-27740
